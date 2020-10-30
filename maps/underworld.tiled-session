@@ -1,0 +1,66 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Images.tsx",
+    "expandedProjectPaths": [
+        "C:/dev/platformer/maps",
+        "."
+    ],
+    "fileStates": {
+        "C:/dev/platformer/maps/Images.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.33
+        },
+        "C:/dev/platformer/maps/test.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1558,
+                "y": 222
+            }
+        },
+        "Images.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.06,
+            "scaleInEditor": 0.33
+        },
+        "Lake.tmx": {
+            "scale": 0.230078125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1732.0203735144312,
+                "y": 2205.7724957555183
+            }
+        },
+        "untitled.tmx": {
+            "scale": 0.230078125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1601.6298811544991,
+                "y": 2188.3870967741937
+            }
+        }
+    },
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.json)",
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "openFiles": [
+        "Lake.tmx",
+        "Images.tsx"
+    ],
+    "project": "underworld.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "Lake.tmx",
+        "Images.tsx",
+        "untitled.tmx",
+        "C:/dev/platformer/maps/Images.tsx",
+        "C:/dev/platformer/maps/test.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
