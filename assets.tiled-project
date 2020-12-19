@@ -1,0 +1,13 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "../../underworld-assets/_maps/extensions",
+    "folders": [
+        "../../platformer-assets/_maps",
+        "../../underworld-assets",
+        "../../underworld-assets/_maps",
+        "."
+    ],
+    "objectTypesFile": ""
+}
