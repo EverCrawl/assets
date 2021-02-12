@@ -1,4 +1,6 @@
-# underworld-assets
+# Moved to [EverCrawl/game](https://github.com/EverCrawl/game)
+
+EverCrawl assets
 
 This repository is used to hold assets in a central place. They are automatically pulled from this repository on startup of the client file server or the game server.
 
